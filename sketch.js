@@ -1,4 +1,3 @@
-
 // 전역 변수 선언
 let paddle, ball, bricks;
 let rows = 5, cols = 8;
