@@ -19,7 +19,7 @@ function setup() {
 }
 
 function draw() {
-  background(30, 30, 50);
+  background(255, 255, 0);
   paddle.show();
   ball.update();
   ball.show();
